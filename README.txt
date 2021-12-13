@@ -1,3 +1,3 @@
 Cordial saludo
 
-Desarrolle la prueba en NODE JS
+Desarrolle la prueba para consola en NODE JS
